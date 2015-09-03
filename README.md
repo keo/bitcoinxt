@@ -53,3 +53,7 @@ Ideas for useful protocol upgrades are tracked in the issue tracker.
 
 Bitcoin XT is intended to be compatible with crowd funded development. If you would like to experiment with a (non consensus changing) protocol upgrade, please discuss it on the mailing list first. You should be able to get a clear decision on the concept and design before starting on the implementation.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/keo/bitcoinxt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
